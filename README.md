@@ -1,5 +1,10 @@
 # observeMe
 
+##### 3/4/2023 10:45PM
+### Please make sure to use REACT NATIVE FUNCTIONAL COMPONENTS, instead of CLASS COMPONENTS. It is the latest way of writing react native code.
+
+
+
 ##### 3/2/2023 7:38PM
 ### First, Fork the repository, go to the project folder in VS Code, Open integrated terminal inside the observeMe folde##r
 
