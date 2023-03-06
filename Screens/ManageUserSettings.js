@@ -24,23 +24,23 @@ const ManageUserSettings = () => {
 
 
         <View style={{ flex: 1, padding: 20 }}>
-          <EditableTextField label="Name" placeholder="Enter your name" />
+          <EditableTextField label="Name" placeholder="Suhas" />
         </View>
 
         <View style={{ flex: 1, padding: 20 }}>
-          <EditableTextField label="Phone number" placeholder="Enter your phone number" />
+          <EditableTextField label="Phone number" placeholder="33117010086" />
         </View>
 
         <View style={{ flex: 1, padding: 20 }}>
-          <EditableTextField label="Email" placeholder="Enter your email" />
+          <EditableTextField label="Email" placeholder="suhashollakc@gmail.com" />
         </View>
 
         <View style={{ flex: 1, padding: 20 }}>
-          <EditableTextField label="Hobbies" placeholder="Enter your hobbies" />
+          <EditableTextField label="Hobbies" placeholder="Cricket, Reading, Music" />
         </View>
 
         <View style={{ flex: 1, padding: 20 }}>
-          <EditableTextField label="Interests" placeholder="Enter your interests" />
+          <EditableTextField label="Interests" placeholder="Politics, Fashion, Technology" />
         </View>
 
         {/* update button and logout button */}
